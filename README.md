@@ -1,5 +1,19 @@
 ## Zoltan Kosina
 
+https://gamejolt.com/@kosina
+
+https://kosinaz.itch.io/
+
+http://roguebasin.roguelikedevelopment.org/index.php?title=Kosina_Zoltan
+
+### About
+
+Father, husband, solution analyst, hobby game developer from Hungary.
+
+### Jam Games
+
+
+
 You can use the [editor on GitHub](https://github.com/kosinaz/kosinaz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
