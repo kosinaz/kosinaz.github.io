@@ -12,6 +12,9 @@ Father, husband, solution analyst, hobby game developer from Hungary.
 
 ### Jam Games
 
+1. [Poseidon](https://github.com/kosinaz/poseidon) - [JF.hu Minigame Mobil (Egy ujjas mobil játék)](https://web.archive.org/web/20150512070912/http://jatekfejlesztes.hu/kiemelt.php?id=132474f26) - 49 days - [6/17](https://web.archive.org/web/20150416031318/http://jatekfejlesztes.hu/page.php?&id=382) * * * *
+1. [Asclepius Inc.](https://github.com/kosinaz/Asclepius-Inc.) - [JF.hu Minigame Respawn](https://web.archive.org/web/20170223194436/http://jatekfejlesztes.hu/kiemelt.php?id=b59dd2010) - 14 days - [3/10](https://web.archive.org/web/20170223192218/http://jatekfejlesztes.hu/page.php?&id=389) * * * *
+
 
 
 You can use the [editor on GitHub](https://github.com/kosinaz/kosinaz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
