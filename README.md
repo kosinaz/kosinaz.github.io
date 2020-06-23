@@ -20,3 +20,4 @@ Father, husband, solution analyst, hobby game developer from Hungary.
 1. [SpectRL](https://github.com/kosinaz/spectrl) - [itch.io Text Only Jam (Dragons and Dungeons)](https://itch.io/jam/text-only-jam) - 2019.12.13. 14 days - [9/30](https://itch.io/jam/text-only-jam/rate/538428) * * * *
 1. [Emmanuel de Rouge and the Amulet of Quetzalcoatl](https://github.com/kosinaz/eraq) - [itch.io 7DRL Challenge (Roguelike)](https://itch.io/jam/7drl-challenge-2020) - 2020.02.28. 7 days - [13/209](http://roguetemple.com/7drl/2020/) * * * * *
 1. [Destination: Nowwanus](https://github.com/kosinaz/destination-nowwanus) - [itch.io Gamedev.js Jam (Future)](https://itch.io/jam/gamedevjs-2020) - 2020.04.13. 13 days - [3/44](https://itch.io/jam/gamedevjs-2020/rate/617658) * * * * *
+1. [Invisible Issues](https://github.com/kosinaz/invisible-issues) - [itch.io Gameplicit Game Jam (Kényelmetlen szupererő)](https://itch.io/jam/gameplicit-game-jam) - 2020.06.19. 2 days - 3/7 * * *
