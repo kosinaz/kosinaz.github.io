@@ -22,4 +22,4 @@ Father, husband, business technical analyst, hobby game developer from Hungary.
 1. [Destination: Nowwanus](https://github.com/kosinaz/destination-nowwanus) - [itch.io Gamedev.js Jam (Future)](https://itch.io/jam/gamedevjs-2020) - 2020.04.13. 13 days - [3/44](https://itch.io/jam/gamedevjs-2020/rate/617658) * * * * *
 1. [Invisible Issues](https://github.com/kosinaz/invisible-issues) - [itch.io Gameplicit Game Jam (Kényelmetlen szupererő)](https://itch.io/jam/gameplicit-game-jam) - 2020.06.19. 2 days - 3/7 * * *
 1. [Control Their Reality Ltd](https://kosinaz.itch.io/ctrl) - [itch.io GMTK Game Jam (Out of Control)](https://itch.io/jam/gmtk-2020) - 2020.07.10. 2 days - [1573/5412](https://itch.io/jam/gmtk-2020/rate/697005) * * * *
-1. [Madd.io](https://kosinaz.itch.io/maddio) - [itch.io 50+ players multiplayer game jam (modd.io)](https://itch.io/jam/september-players-multiplayer-game-jam-moddio) - 2022.09.24. 14 days - 2/5 * * * *
+1. [Madd.io](https://kosinaz.itch.io/maddio) - [itch.io 50+ players multiplayer game jam modd.io (Exploration)](https://itch.io/jam/september-players-multiplayer-game-jam-moddio) - 2022.09.24. 14 days - 2/5 * * * *
