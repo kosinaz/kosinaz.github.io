@@ -8,7 +8,7 @@ http://roguebasin.roguelikedevelopment.org/index.php?title=Kosina_Zoltan
 
 ### About
 
-Father, husband, business technical analyst, hobby game developer from Hungary.
+Father, husband, business technical analyst and video game developer from Hungary.
 
 ### Jam Games
 
