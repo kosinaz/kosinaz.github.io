@@ -26,3 +26,4 @@ Father, husband, business technical analyst and video game developer from Hungar
 1. [Son of a Gun: Six Feet Under](https://kosinaz.itch.io/soag-sfu) - [itch.io Game Off 2022 (Cliché)](https://itch.io/jam/game-off-2022) - 2022.11.01. 30 days - [405/562](https://itch.io/jam/game-off-2022/rate/1815932) *
 1. [Init](https://kosinaz.itch.io/init) - [itch.io LOWREZJAM 2023](https://itch.io/jam/lowrezjam-2023) - 2023.08.01. 14 days - [122/304](https://itch.io/jam/lowrezjam-2023/rate/2203705) * * *
 1. [Divergica's Magical Mushroom Melodies](https://kosinaz.itch.io/divergica) - [itch.io Rhythm Jam 2024](https://itch.io/jam/rhythm-jam-2024) - 2024.02.09. 9 days - [51/73](https://itch.io/jam/rhythm-jam-2024/rate/2533626) * *
+2. [Bastion of Entropy](https://kosinaz.itch.io/bastion-of-entropy) - [itch.io Dungeon Crawler Jam 2024](https://itch.io/jam/dcjam2024) - 2024.03.22. 9 days - [111/167](https://itch.io/jam/dcjam2024/rate/2612288) * *
