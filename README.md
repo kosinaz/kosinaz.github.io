@@ -4,7 +4,7 @@ https://gamejolt.com/@kosina
 
 https://kosinaz.itch.io/
 
-http://roguebasin.roguelikedevelopment.org/index.php?title=Kosina_Zoltan
+https://roguebasin.com/index.php/Kosina_Zoltan
 
 ### About
 
