@@ -1,10 +1,12 @@
 ## Zoltan Kosina
 
-https://gamejolt.com/@kosina
+[https://github.com/kosinaz](https://github.com/kosinaz)
 
-https://kosinaz.itch.io/
+[https://kosinaz.itch.io/](https://kosinaz.itch.io/)
 
-https://roguebasin.com/index.php/Kosina_Zoltan
+[https://gamejolt.com/@kosina](https://gamejolt.com/@kosina)
+
+[https://roguebasin.com/index.php/Kosina_Zoltan](https://roguebasin.com/index.php/Kosina_Zoltan)
 
 ### About
 
